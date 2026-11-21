@@ -76,3 +76,13 @@ Les captures Q1, Q3 et Q12 doivent être ajoutées dans ce dossier GitHub.
 - Centre canadien pour la cybersécurité : https://www.cyber.gc.ca/en/guidance/spotting-malicious-email-messages-itsap00100
 
 Consultation : 20 novembre 2026.
+## Captures d'écran
+
+### Q1 – Configuration Defender for Storage
+![Q1](Q1_Defender_Storage.png)
+
+### Q3 – Détection EICAR
+![Q3](Q3_EICAR_Malicious.png)
+
+### Q12 – Suppression des ressources
+![Q12](Q12_Suppression_ressources.png)
